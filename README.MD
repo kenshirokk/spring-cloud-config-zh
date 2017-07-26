@@ -2,7 +2,7 @@
 
 ## 目录
 
-- 快速开始
+- 快速开始(quick-start.md)
   - 客户端用法
 - Spring Cloud Config 服务器
   - 环境仓库
